@@ -37,7 +37,7 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.alquranterjemahanindonesia.guruandroid",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"3",
         "iklan_splash":"1",
         "startappid":"12345678",
         "pub_id": "pub-8074230319419198",
@@ -48,7 +48,7 @@
         "fan_native_banner": "981545408591412_2870610639684870",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "interval": 2,
-        "version_app":5,
+        "version_app":1,
         "hpk_admob1":"",
         "hpk_admob2":"",
         "hpk_admob3":"",
